@@ -1,0 +1,151 @@
+Subject,Participant.Public.ID,Gender,Age,Ethnicity,English,Education,Income,Twin
+1,5f3e3bbcf00895000b2741be,Male,22,White,No,High School Diploma,Under $5 000,No
+2,5d03f18bbea2b4001a0b2db3,Female,41,Asian,No,High School Diploma,$80 001-$100 000,No
+3,5c1bd6ddede683000132aab5,Male,25,White,No,High School Diploma,$15 001-$25 000,No
+4,5e78a08318ee0e41e1bc6a1a,Female,27,White,Yes,High School Diploma,$35 001-$50 000,No
+5,5a60a51863394a0001552447,Female,24,White,No,4 Year Degree,$25 001-$35 000,No
+6,6087e85b29daa9840e70f48d,Female,22,White,No,High School Diploma,Under $5 000,No
+7,5eb95face45c8503b7ba79ba,Female,36,White,No,Postgraduate/Professional Degree,$5 000-$10 000,No
+8,5e2380c152e7a66358a276c5,Male,25,MIxed/South Asian,Yes,Postgraduate/Professional Degree,$25 001-$35 000,No
+9,5f678253d856310917632d73,Female,23,White,Yes,Postgraduate/Professional Degree,just graduated,No
+10,60588947eeb9103d50735c83,Male,23,White,No,4 Year Degree,$10 001-$15 000,No
+11,5c7c0fcc37432100181311a1,Female,24,White,No,4 Year Degree,$5 000-$10 000,No
+12,5a35353bc82921000136b546,Male,22,White,No,High School Diploma,Under $5 000,No
+13,5f91b4842e1a3f0508d9cd49,Male,36,White,No,High School Diploma,$10 001-$15 000,No
+14,5ccf5b68e787e000167f85fb,Female,23,White,Yes,4 Year Degree,$15 001-$25 000,No
+15,5c13f3dd328dfa0001957fc5,Male,24,White,No,High School Diploma,$5 000-$10 000,No
+16,5fbb4a593dc031c2a81c7944,Female,22,middle eastern,No,High School Diploma,$5 000-$10 000,No
+17,5f7f7aeb7fe61c12a0d96700,Male,20,White,No,High School Diploma,$25 001-$35 000,No
+18,5f4bf799de3ea80d30fa79c3,Female,21,White,No,2 Year Degree,$5 000-$10 000,No
+19,6019890e2e49e00b90471946,Female,20,White,No,2 Year Degree,$35 001-$50 000,No
+20,5f50a97f44ceb0222703df77,Male,23,Black,No,High School Diploma,$5 000-$10 000,No
+21,5ea92eec3b32cf00099b4e90,Male,24,White,No,4 Year Degree,Under $5 000,No
+22,599cb6ea6c165e000113ff6b,Female,23,White,No,Postgraduate/Professional Degree,Under $5 000,No
+23,5efdbcf100c52703e9c31cdb,Female,28,White,No,High School Diploma,Under $5 000,No
+24,60a0d7494f44b8afc4efad70,Female,33,White,Yes,Postgraduate/Professional Degree,$35 001-$50 000,No
+25,5ded025913911c3c46a677d7,Male,28,White,Yes,High School Diploma,$35 001-$50 000,No
+26,5e821c975d81bb04ce7a43dd,Female,28,White,No,4 Year Degree,$35 001-$50 000,No
+27,5fc0c74abaacbc5a8a41c21f,Male,41,White,No,Postgraduate/Professional Degree,$25 001-$35 000,No
+28,604aa8ca363b8eb1f6ff03cd,Female,22,White,No,High School Diploma,Under $5 000,No
+29,5d34412a2fd5a40016e58b0a,Female,25,White,Yes,Postgraduate/Professional Degree,$35 001-$50 000,No
+30,5eac054db1ad42202f5ce747,Female,26,White,Yes,Postgraduate/Professional Degree,$5 000-$10 000,No
+31,6079dcc69bcb3d9180009d68,Male,21,White,No,High School Diploma,Under $5 000,No
+32,603211646e51ba1ae403c7ea,Female,18,Black,Yes,High School Diploma,Under $5 000,No
+33,5e6a1590d7a9eb000a1cca0e,Male,21,White,No,High School Diploma,Under $5 000,No
+34,5ed7723785c7561ff23ab30a,Female,24,White,No,Postgraduate/Professional Degree,$5 000-$10 000,No
+35,5ef5459538b9f01ab94e3fa4,Male,27,White,Yes,High School Diploma,$15 001-$25 000,No
+36,5e68b815a382101507211e5c,Male,28,White,No,Postgraduate/Professional Degree,$5 000-$10 000,No
+37,5f1197377cee8301f540b980,Female,18,White,No,High School Diploma,$5 000-$10 000,No
+38,5dcc61ad900e3e8fe2aa68aa,Male,39,White,No,High School Diploma,$35 001-$50 000,No
+39,5f7372257826860a14e8fff5,Male,29,White,Yes,Postgraduate/Professional Degree,$35 001-$50 000,No
+40,5f973aebcb789e0dff2c5451,Male,23,Hispanic,No,Postgraduate/Professional Degree,$15 001-$25 000,No
+41,5f556cacee39f7940b3c6c0a,Female,25,White,No,High School Diploma,$10 001-$15 000,No
+42,6081483f750f359094b176dc,Male,35,Asian,No,Postgraduate/Professional Degree,$35 001-$50 000,No
+43,5c2112241773860001a7fe22,Female,31,Black,Yes,4 Year Degree,$35 001-$50 000,No
+44,5ed00019ed24330af1d4ef65,Female,22,White,No,4 Year Degree,$5 000-$10 000,No
+45,5a69b952f561b400011e188d,Male,49,White,Yes,4 Year Degree,$25 001-$35 000,No
+46,6017c341dc001ba1cf81e566,Male,34,Hispanic,No,Postgraduate/Professional Degree,$15 001-$25 000,No
+47,601aa7f94879f631122f2b60,Male,19,White,No,High School Diploma,Under $5 000,No
+48,5c7f07e773dbca0001165401,Female,20,White,No,High School Diploma,$5 000-$10 000,No
+49,609a843977eac5cba25418ff,Female,19,White,Yes,Postgraduate/Professional Degree,$25 001-$35 000,No
+50,5f1b768bba959b371da3e65f,Female,22,Hispanic,No,2 Year Degree,$5 000-$10 000,No
+51,5fef357a173bfbd6598c31b7,Male,19,White,No,High School Diploma,Under $5 000,No
+52,609d2007ee7199b27865d2aa,Female,24,White,No,4 Year Degree,Under $5 000,No
+53,5c7c0f952bb1db0016a03865,Male,23,White,No,High School Diploma,$15 001-$25 000,No
+54,5f9fc753be94016201d471fc,Female,22,White,No,High School Diploma,$5 000-$10 000,No
+55,5fc7c65d81e3a0068b599422,Male,24,White,No,High School Diploma,$5 000-$10 000,No
+56,60250e6ac74f84274efa58ea,Male,23,White,No,High School Diploma,Under $5 000,No
+57,5da8e712c0275c0016242419,Male,29,Asian,No,Postgraduate/Professional Degree,$15 001-$25 000,No
+58,5fb8a90404da873c83ca2bf6,Male,22,White,No,High School Diploma,$5 000-$10 000,No
+59,5d4fe6a2ffbcf800019d5e54,Female,54,White,No,Postgraduate/Professional Degree,$15 001-$25 000,No
+60,5a9e7550f6dfdd0001eab182,Male,25,White,No,4 Year Degree,$10 001-$15 000,
+61,5def6140d35cc3000c1c62a7,Female,25,Black,Yes,Postgraduate/Professional Degree,$10 001-$15 000,No
+62,6042c01337e3ce21d97c1ed0,Female,20,Black,No,High School Diploma,Under $5 000,No
+63,5df213d627130511af69dcda,Male,27,White,No,2 Year Degree,$10 001-$15 000,No
+64,60567c4bedb1f81f9171345c,Male,20,White,No,High School Diploma,$5 000-$10 000,No
+65,5f50e04ef4ec8e27352a1765,Female,36,White,No,High School Diploma,$35 001-$50 000,No
+66,5e3accb9749eb5016530aa20,Male,23,White,No,2 Year Degree,$25 001-$35 000,No
+67,5ef9e3df9d93427a9ca1ebe3,Female,26,White,No,4 Year Degree,$15 001-$25 000,No
+68,5e386b5cf259f30486178d62,Male,20,White,No,High School Diploma,Under $5 000,No
+69,609b110d4d9c324fcf4a7208,Non-Binary,18,White,Yes,High School Diploma,Under $5 000,No
+70,601d7556fe4dfb0d99b3d825,Male,29,White,No,High School Diploma,$35 001-$50 000,No
+71,5fb158cc38ecb85d030d937d,Male,30,White,No,Postgraduate/Professional Degree,$35 001-$50 000,No
+72,5e7356af75224a000cca14a1,Female,22,Asian,No,2 Year Degree,$50 001-$65 000,No
+73,57473b847fd0ec000db6842a,Male,33,White,Yes,2 Year Degree,$5 000-$10 000,No
+74,6065a9c919b6addaaba7fb6e,Female,20,White,No,High School Diploma,$25 001-$35 000,No
+75,5e4945a415670b3b3284fd9b,Female,28,Black,Yes,4 Year Degree,$10 001-$15 000,No
+76,5ec4eea81ce1a03f73e8cf56,Male,29,White,No,4 Year Degree,Under $5 000,No
+77,5ccecfd9d3f12600187dff6e,Male,23,White,No,High School Diploma,Under $5 000,No
+78,5c055d9244da850001643982,Female,23,White,No,High School Diploma,$10 001-$15 000,No
+79,5f4186aeb6e78f32026f469e,Male,20,White,No,High School Diploma,Under $5 000,No
+80,5ea195bbf442ab0513a8fb50,Male,45,White,No,High School Diploma,$35 001-$50 000,No
+81,5f15d1e7f7fa5e0bef2dfb2a,Female,22,White,No,High School Diploma,Under $5 000,No
+82,5fcbb598516103930bd22135,Female,48,Asian,Yes,4 Year Degree,$15 001-$25 000,No
+83,609bb827f31a3b542c368bc8,Male,18,White,No,High School Diploma,Under $5 000,Yes (dizygotic)
+84,5f4cf99c36de2f078898deb9,Male,30,White,No,High School Diploma,$10 001-$15 000,No
+85,5f51292bd904fa31bd519280,Male,26,White,No,Postgraduate/Professional Degree,$5 000-$10 000,No
+86,5c080166edbfb60001cf2f35,Male,21,White,No,High School Diploma,Under $5 000,No
+87,5e451337ba57e739299ca2f7,Female,25,Hispanic,No,2 Year Degree,Under $5 000,No
+88,60a093084046f016d289edc0,Male,28,White,Yes,High School Diploma,$10 001-$15 000,No
+89,608f66d2e2f80b1b72ec5b8c,Male,60,Asian,No,Postgraduate/Professional Degree,$65 001-$80 000,No
+90,609e913860491cb73d9e4aad,Female,27,White,No,4 Year Degree,$15 001-$25 000,No
+91,5ec57530f348315719a6777f,Male,27,White,No,4 Year Degree,$15 001-$25 000,No
+92,5f63106b5bd9c03ad91e0102,Male,21,White,No,High School Diploma,$15 001-$25 000,No
+93,601b933f4cfca955ed242609,Male,30,White,No,Postgraduate/Professional Degree,$35 001-$50 000,No
+94,5bcd6ea508a62c0001f8c85a,Male,35,White,Yes,Postgraduate/Professional Degree,$35 001-$50 000,No
+95,5b514986303c33000165606a,Male,21,White,Yes,High School Diploma,$25 001-$35 000,No
+96,5ee73a8e24297201d19982a2,Male,22,Hispanic,No,2 Year Degree,$25 001-$35 000,No
+97,5e83b64a71c78f0d979f1896,Male,24,White,Yes,Postgraduate/Professional Degree,Under $5 000,No
+98,5e950dd04a5c110fa268ff11,Female,29,Asian,No,High School Diploma,$50 001-$65 000,No
+99,5e8260f81699ef9a115b761b,Female,23,White,No,High School Diploma,Under $5 000,No
+100,5c1f694cce8ff10001aa3e0b,Male,23,White,No,High School Diploma,$25 001-$35 000,No
+101,6091acdb114b2f5292e6b79f,Female,20,White,No,High School Diploma,Under $5 000,No
+102,5e49b01315670b41f977a261,Male,30,White,No,High School Diploma,$25 001-$35 000,No
+103,5ee907fc12ef3f0f443d1d90,Female,21,White,No,High School Diploma,$10 001-$15 000,No
+104,5c8eb5abb828c80001fde692,Male,29,White,No,4 Year Degree,Under $5 000,No
+105,5cfd0ec4a6723500162fb445,Female,38,White,No,master degree,$15 001-$25 000,No
+106,6097cb23b3b5b8e82e0b8500,Female,21,White,No,4 Year Degree,Under $5 000,No
+107,5eb0b209841d811648aa239c,Male,21,Hispanic,No,2 Year Degree,$15 001-$25 000,No
+108,5f03759a33e5d656f069b615,Male,32,Hispanic,No,2 Year Degree,$25 001-$35 000,No
+109,5f999127701e320105c8ba06,Male,30,White,No,High School Diploma,$25 001-$35 000,No
+110,602d3666cfb3136feb7b77fc,Male,21,Hispanic,No,High School Diploma,Under $5 000,No
+111,5de2dfc5a6653131de675189,Male,21,White,No,2 Year Degree,Under $5 000,No
+112,5ffc18d5c8c1a8136a056e49,Female,24,White,No,4 Year Degree,Under $5 000,No
+113,607ee1cfff5b0341d6b00ab6,Female,19,White,No,High School Diploma,Under $5 000,No
+114,5ec2dd5047c4470f502902b6,Male,29,White,No,4 Year Degree,$15 001-$25 000,No
+115,607301ee5783f2aa4e04e99c,Female,56,White,No,2 Year Degree,$25 001-$35 000,No
+116,5ae8d2309d82560001bdcb29,Female,43,White,No,4 Year Degree,$25 001-$35 000,No
+117,5b1d5fabbdf4e10001638a19,Female,28,White,Yes,4 Year Degree,$15 001-$25 000,No
+118,5f9c26fdb17d8306fb98640c,Female,21,Asian,No,4 Year Degree,Under $5 000,No
+119,5f29c1d32f98741444b505df,Male,32,White,No,4 Year Degree,$25 001-$35 000,No
+120,609fc92b4ad004be675a4c7c,Female,19,White,No,High School Diploma,$5 000-$10 000,No
+121,607176a53e0b57a4f8be7ac9,Male,33,White,No,High School Diploma,$5 000-$10 000,No
+122,5c1cfb57e2d9150001b5975b,Male,21,White,No,2 Year Degree,Under $5 000,No
+123,5f9c3f065e10810963caef6a,Male,27,White,No,Postgraduate/Professional Degree,Under $5 000,No
+124,603d0e0e5b0386b034e93bf5,Female,24,White,No,High School Diploma,Under $5 000,No
+125,5e1cabad3b577b000c55e660,Male,19,White,No,High School Diploma,$10 001-$15 000,No
+126,6034fa1f1cbed7d64970be12,Male,22,White,No,High School Diploma,Under $5 000,No
+127,5e27511207956e0735cdddf3,Female,47,White,No,2 Year Degree,Under $5 000,No
+128,5eb160d9653c15056ac72f08,Male,27,White,No,4 Year Degree,$10 001-$15 000,No
+129,609cf1b83aab96a7f5176ec5,Female,21,White,No,Postgraduate/Professional Degree,$25 001-$35 000,No
+130,5f75cfbb3e500727c8c97631,Female,24,White,No,4 Year Degree,$10 001-$15 000,
+131,609f5b553b1a6005645e026c,Female,26,White,Yes,4 Year Degree,$15 001-$25 000,No
+132,5ed4f048f7b6fe02e0d9ffe3,Female,20,White,No,High School Diploma,Under $5 000,No
+133,5f5104224af6f32c539ea13f,Female,55,White,Yes,High School Diploma,$10 001-$15 000,No
+134,5e07aa9cb638531138f72587,Male,54,White,Yes,4 Year Degree,$65 001-$80 000,No
+135,599bb8b9a7b24000015237f6,Female,36,Black,Yes,4 Year Degree,$35 001-$50 000,No
+136,602bbb43cfca8a33d87378c7,Male,22,White,No,High School Diploma,Under $5 000,No
+137,60174eaa7f813c971484817b,Female,20,White,No,High School Diploma,$5 000-$10 000,No
+138,5bef5e9211439b000168b116,Male,25,White,No,Postgraduate/Professional Degree,$5 000-$10 000,No
+139,608c2c2a3db559a3864afeb0,Male,24,Asian,Yes,4 Year Degree,Under $5 000,No
+140,60069dee977ac9000b985f82,Male,24,Black,Yes,Postgraduate/Professional Degree,$5 000-$10 000,No
+141,60927707758ca118d00ac04b,Female,27,White,Yes,Postgraduate/Professional Degree,$15 001-$25 000,No
+142,5ec403bb09d0e02a060bd5e6,Male,26,White,Yes,4 Year Degree,$25 001-$35 000,No
+143,6090893d0e38787968caddcd,Female,19,White,Yes,High School Diploma,Under $5 000,No
+144,5fb0076eeeb1b433c0a9fe97,Male,24,White,No,High School Diploma,Under $5 000,No
+145,602fd43a4bcf02d4aac8ef3c,Female,22,White,No,Postgraduate/Professional Degree,Under $5 000,No
+146,609fe7042eedb2a239dfb829,Female,20,White,No,2 Year Degree,$10 001-$15 000,No
+147,5f9b5c0c9663013880da297b,Female,36,White,No,Postgraduate/Professional Degree,$15 001-$25 000,No
+148,5f50138247e79917434e1638,Male,19,Asian,Yes,High School Diploma,$80 001-$100 000,No
+149,5ac78f05e1099600016aa273,Female,26,White,No,Postgraduate/Professional Degree,Under $5 000,No
+150,5d2b45b9f7ef930001c5fa2d,Female,42,White,Yes,Postgraduate/Professional Degree,$65 001-$80 000,No
